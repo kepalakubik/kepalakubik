@@ -1,5 +1,5 @@
 ## 👋 Yuhu! Kenalin saya Ryan!
-Seorang programmer asal Sulawesi barang yang berfokus pada pengembangan website. \
+Seorang programmer asal Sulawesi Barat yang berfokus pada pengembangan website. \
 Selain programming, saya juga pembaca manga, fotografer, dan audiophile.
 
 ## ✨ Support
