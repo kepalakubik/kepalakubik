@@ -6,6 +6,7 @@ Selain programming, saya juga pembaca manga, fotografer, dan audiophile.
 Seluruh proyek ku selalu open source dan akan selalu seperti itu. Jika kamu ingin memberikan support, kamu bisa melakukannya melalui link dibawah. Terima kasih sebelumnya! ^~^  \
 \
 <a href="https://trakteer.id/kepalakubik" target="_blank"><img id="wse-buttons-preview" src="https://edge-cdn.trakteer.id/images/embed/trbtn-red-1.png?v=14-05-2025" height="40" style="border: 0px; height: 40px; --darkreader-inline-border-top: 0px; --darkreader-inline-border-right: 0px; --darkreader-inline-border-bottom: 0px; --darkreader-inline-border-left: 0px;" alt="Trakteer Saya" data-darkreader-inline-border-top="" data-darkreader-inline-border-right="" data-darkreader-inline-border-bottom="" data-darkreader-inline-border-left=""></a>
+<a href='https://ko-fi.com/N0J521P88W' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## 📊 Aktivitas
 ![kepalakubik's Stats](https://github-stats-extended.vercel.app/api?username=kepalakubik&theme=default&show_icons=true&hide_border=false&count_private=true)
